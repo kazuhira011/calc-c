@@ -38,6 +38,10 @@ int main(){
         num1 = num1 / num2;
         printf("O resultado da divis%co %c: %.2f \n", 198, 130, num1);
     }
+        
+    else{
+        printf("Op%c%co inv%clida! \n", 135, 198, 160);
+    }
 
     system("pause");
 
